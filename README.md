@@ -1,4 +1,4 @@
-# Startup Prediction Model
+# Web Scraping for Kickstarter website
 
 ## 🧭 Executive Summary
 This project focuses on extracting real-world startup campaign data from Kickstarter using BeautifulSoup and Selenium, followed by cleaning, structuring, and exploring the data for early insights into what makes a campaign successful.
