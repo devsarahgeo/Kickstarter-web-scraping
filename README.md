@@ -17,7 +17,7 @@ Crowdfunding platforms like Kickstarter generate millions in pledges annually, y
 
 ---
 
-- ## 💻 Git File Structure Explained:
+## 💻 Git File Structure Explained:
 
 <strong>Kickstarter_webscraping_code.ipynb</strong> : This code does the webscraping and analysis using Python.
 
