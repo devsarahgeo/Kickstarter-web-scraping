@@ -3,6 +3,8 @@
 ## 🧭 Executive Summary
 Engineered an automated web scraping solution to extract campaign data from Kickstarter, then conducted exploratory data analysis to identify key success patterns. An analysis of 15K+ campaigns revealed insights into funding success rates, high-performing categories, and geographic concentration of crowdfunding activity.
 
+---
+
 ### 💼 Business Problem
 Crowdfunding platforms like Kickstarter generate millions in pledges annually, yet most entrepreneurs lack visibility into what drives campaign success. The goal of this project is to mainly to collect data and do an analysis that provides data-driven insights to inform campaign strategy and resource allocation.
 
@@ -21,7 +23,7 @@ Crowdfunding platforms like Kickstarter generate millions in pledges annually, y
 
 <strong>scraped_data/</strong> : This folder has the final output results. Mainly final_combined.csv has all the scarped records.
 
-----
+---
 
 ## 🧠 Skills & Tech Stack
 - **Languages & Libraries** – Python, Pandas
@@ -59,6 +61,8 @@ Crowdfunding platforms like Kickstarter generate millions in pledges annually, y
   
 <img width="1297" height="707" alt="Screenshot 2026-02-04 at 11 37 04 AM" src="https://github.com/user-attachments/assets/58a0dac8-d80f-4524-b65a-fb3f9d0bb8c2" />
 
+---
+
 ## 📊 Business Insights & Recommendations
 
   ### 1. **Strong Overall Success Rate**
@@ -75,9 +79,6 @@ Crowdfunding platforms like Kickstarter generate millions in pledges annually, y
 - **Los Angeles and New York** dominate campaign activity
 - Reflects concentration of creative industries and entrepreneurial ecosystems. Geographic targeting and local marketing could enhance campaign success.
 - <b>Recommendation:</b>  Increase support/resources in LA & NYC markets where activity is highest
-  
-## 💼 Business Recommendation
-Focus on moderate funding goals and well-defined categories, as they exhibit higher campaign success rates. The scraped dataset can further support predictive analysis to guide future startups in setting realistic targets.
 
 ## 🚀 Outcome
 Gained hands-on experience in automated web scraping and insight generation — key steps in transforming raw online data into actionable startup intelligence.
