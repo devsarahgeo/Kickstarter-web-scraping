@@ -80,8 +80,12 @@ Crowdfunding platforms like Kickstarter generate millions in pledges annually, y
 - Reflects concentration of creative industries and entrepreneurial ecosystems. Geographic targeting and local marketing could enhance campaign success.
 - <b>Recommendation:</b>  Increase support/resources in LA & NYC markets where activity is highest
 
+---
+
 ## 🚀 Outcome
 Gained hands-on experience in automated web scraping and insight generation — key steps in transforming raw online data into actionable startup intelligence.
+
+---
 
 ## ⚡ Future Scope
 ### 1. Temporal Trend Analysis
